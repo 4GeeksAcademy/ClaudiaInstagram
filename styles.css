@@ -1,0 +1,63 @@
+body{
+    background-color: black;
+    width: 100%;
+    height: 100%;
+}
+
+
+.post{
+    justify-content: center;
+    background-color:white;
+    width: 450px;
+    height: 720px;
+    margin: auto;
+    /* font-family: 'Handlee', cursive; */
+    font-family: 'Roboto', sans-serif;
+    align-content: center;    
+  
+}
+
+i.fa-html5 {
+    font-size:  60px;
+    
+
+}
+
+img{
+    width: 450px;
+}
+
+.titulo{
+    float: left;
+    width: 450px;
+    display: flex;
+    margin-left: 5px;
+}
+.html{
+    margin-left: 40px;
+}
+
+.fa-ellipsis-vertical {
+    float: right;
+    margin-left: 67%;
+    margin-top: 30px;
+}
+
+.fa-bookmark{
+    float: right;
+    display: inline;
+    margin-right: 10px;
+
+}
+
+
+ .cuerpo {
+    margin: auto; 
+    justify-content: space-between;
+    margin: 10px 10px;
+}
+
+.iconos {
+    font-size: 25px;
+    margin-right: 10px;
+}
